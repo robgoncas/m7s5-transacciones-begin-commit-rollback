@@ -1,0 +1,15 @@
+{
+  "name": "m7s4-transacciones",
+  "version": "1.0.0",
+  "description": "Las transacciones son esenciales para garantizar la integridad y consistencia de los datos en una base de datos. En PostgreSQL, las transacciones permiten agrupar múltiples operaciones en una única unidad de trabajo, asegurando que todas se completen exitosamente o, en caso contrario, que ninguna tenga efecto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.0"
+  }
+}
